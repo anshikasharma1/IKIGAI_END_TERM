@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap');
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+body {
+  background-image: url('https://img.freepik.com/free-photo/sky-sunset_1203-1666.jpg?w=1060&t=st=1702549838~exp=1702550438~hmac=07ccc7c0f28e35f85cfa10938268cb7af93d7408b1b95a3e7dda6d2142cb20fe'); /* Replace 'your-image-url.jpg' with the URL or path to your image */
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+
+header {
+  background-color: blanchedalmond; 
+}
+
+h1 {
+  color: white; 
+}
+
+#city-input {
+  background-color: #f8f9fa; 
+}
+
+#search-btn {
+  background-color: black; 
+  color: white;
+}
+
+.current-weather {
+  background-color: blanchedalmond;
+  color: white;
+}
+
+.days-forecast .card {
+  background-color: #343a40; 
+  color: white;
+}
